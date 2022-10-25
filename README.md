@@ -29,6 +29,18 @@
 
 * currently: [oslo](https://maps.apple.com/?ll=59.911558,10.733361)
 
+## languages:
+
+```bash
+
+🖥️ swift
+🕸️ php
+🐍 python
+☕️ javascript
+🐚 bash/zsh/shell
+🧢 lua
+
+```
 
 <!---
 atchoo78/atchoo78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
