@@ -3,7 +3,6 @@
 
 ```bash
 > andreas
-> date -j -r 258177027
 ```
 
 ## what:
@@ -21,14 +20,14 @@
 ## when:
 
 ```bash
-> date +'%Y/%m/%d - %T'
+> date -j -r 258177027
 ```
 
 ## where:
 
-* from: [tromsø](https://maps.apple.com/?ll=69.651329,18.954410&lsp=6489)
+from: [tromsø](https://maps.apple.com/?ll=69.651329,18.954410&lsp=6489)
 
-* currently: [oslo](https://maps.apple.com/?ll=59.911558,10.733361)
+currently: [fredrikstad](https://maps.apple/p/XRX0DJdm3hGAXU)
 
 ## languages:
 
